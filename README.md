@@ -5,6 +5,10 @@ This is a custom fork of DWM made by act.
 
 # Changelog
 
+Version 03 (2023-08-10)
+  - Changed ``config.h``.
+    - Changed the MODKEY from ``Alt`` to ``Super``.
+
 Version 02 (2023-08-03)
   - Changed ``config.h``.
     - Changed value (colour) of ``col_femboy`` from ``#ff00ff`` to the much milder colour of ``#630055``.
